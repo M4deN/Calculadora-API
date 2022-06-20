@@ -1,4 +1,4 @@
-package br.personal.Calculadora;
+package br.personal.CalculadoraTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
